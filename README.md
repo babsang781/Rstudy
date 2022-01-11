@@ -1,4 +1,4 @@
 # Rstudy
-*There are practice directories*
-  **and files of under investigation,**
-  **Collection of Datasets.**
+**There are practice directories**<br>
+> *and files of under investigation,*<br>
+>  *Collection of Datasets.*
